@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Aku Pintar Indonesia
+- 🔭 I’m currently working on PT Warna Warni Media Group
 - 🌱 I’m currently learning Android
 - 👯 I’m looking to collaborate on android project
 
